@@ -1,3 +1,7 @@
-### Hello
+Near and medium future will be filled with distruptions that will go above and beyond what we have seen so far. The "human" of the gaps is already struggling with redefinig itself in the age of weak AI, and special-purpose machinery. The way I see it, many of the imminent advancements ahead of us will only exacerbate these struggles.
 
-I believe that beauty comes from wholenes; it's an allure that streams from the solution that the code serves, to the process, the design, down till every line of concise but readable code. Written with dedication to the whole; not the code itself. Because of this, I strive to understand at least a little bit about every part of the system, and I try to improve my understanding of our precious craft through time and projects' needs.
+I have been focusing my efforts on building social and financial systems for the improvement of trust, and economic liberation and mobility in societies. For these, I employ
+decentralized, traditional and hybrid systems. 
+
+I'm an economist by degree and I have been professionally coding for more than 5 years. I have also worked as an international trader in the food industry and lead multi million-dollar engineering and trade projects.
+
